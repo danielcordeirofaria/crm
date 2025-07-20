@@ -1,5 +1,5 @@
 // Em src/main/java/com/imobiliaria/crm/service/ImagemServiceImpl.java
-package com.imobiliaria.crm.service;
+package com.imobiliaria.crm.service.imagem;
 
 import com.imobiliaria.crm.dto.ImagemDTO;
 import com.imobiliaria.crm.model.Imagem;

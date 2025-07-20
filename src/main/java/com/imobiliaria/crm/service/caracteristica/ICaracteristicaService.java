@@ -1,4 +1,4 @@
-package com.imobiliaria.crm.service;
+package com.imobiliaria.crm.service.caracteristica;
 
 import com.imobiliaria.crm.dto.CaracteristicaDTO;
 import java.util.List;

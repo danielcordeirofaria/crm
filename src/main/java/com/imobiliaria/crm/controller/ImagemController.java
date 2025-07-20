@@ -2,7 +2,7 @@
 package com.imobiliaria.crm.controller;
 
 import com.imobiliaria.crm.dto.ImagemDTO;
-import com.imobiliaria.crm.service.IImagemService;
+import com.imobiliaria.crm.service.imagem.IImagemService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

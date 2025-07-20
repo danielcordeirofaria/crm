@@ -1,7 +1,7 @@
 package com.imobiliaria.crm.controller;
 
 import com.imobiliaria.crm.dto.ImovelDTO;
-import com.imobiliaria.crm.service.IImovelService;
+import com.imobiliaria.crm.service.imovel.IImovelService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;

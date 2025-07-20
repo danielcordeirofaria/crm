@@ -1,4 +1,4 @@
-package com.imobiliaria.crm.service;
+package com.imobiliaria.crm.service.corretor;
 
 import com.imobiliaria.crm.dto.CorretorDTO;
 import com.imobiliaria.crm.model.Corretor;

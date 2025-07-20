@@ -1,7 +1,7 @@
 package com.imobiliaria.crm.controller;
 
 import com.imobiliaria.crm.dto.CaracteristicaDTO;
-import com.imobiliaria.crm.service.ICaracteristicaService;
+import com.imobiliaria.crm.service.caracteristica.ICaracteristicaService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;
