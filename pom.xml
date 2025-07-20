@@ -92,6 +92,8 @@
 			<optional>true</optional>
 		</dependency>
 
+		<!-- Swagger UI -->
+
 		<!-- Testes -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
